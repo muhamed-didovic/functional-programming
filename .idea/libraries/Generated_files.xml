@@ -1,0 +1,89 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/dist/modules/10.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/1.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/10.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/11.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/12.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/13.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/14.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/15.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/16.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/17.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/18.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/19.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/2.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/20.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/21.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/22.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/23.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/24.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/25.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/3.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/4.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/5.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/6.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/7.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/8.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/9.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/box.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/composition.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/containerizing.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/containerizing2.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/currying.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/either.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/examples/box.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/examples/either.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/maybe.js" />
+        <item url="file://$PROJECT_DIR$/dist/modules/recursion.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/modules/firstLessons.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/secondLesson.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/thirdLessons.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/fourthLesson.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/fifth.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/sixthLesson.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/containerizing.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/16.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/19.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/20.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/composition.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/21.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/containerizing2.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/22.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/either.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/currying.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/10.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/recursion.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/23.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/24.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/25.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/7.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/18.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/1.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/5.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/modules/10.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/6.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/13.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/11.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/4.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/12.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/maybe.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/2.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/3.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/14.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/box.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/8.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/9.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/examples/either.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/examples/box.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/15.js" />
+      <root url="file://$PROJECT_DIR$/dist/modules/17.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

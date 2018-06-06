@@ -1,0 +1,31 @@
+/*
+  Functional Programming in JavaScript
+  Author: Luis Atencio
+  High-order Functions
+*/
+console.log('High-order functions');
+
+
+/*
+    functions can be assigned to variables
+ */
+var applyOperation = (a, b, opt) => opt(a,b);
+var multiplier = (a,b) => a * b;
+console.log('Multipler is '  + (typeof multiplier + ' a function'));
+
+/*
+    functions passed-in to parameters
+ */
+var twoTimesThree = applyOperation (2,3,multiplier);
+console.log('Multiplier: ' + twoTimesThree);
+
+/*
+    functions can be returned from other functions
+ */
+function add(a) {
+   return function (b) {
+      return a + b;
+  }
+}
+var threePlusThree = add(3)(3);
+console.log('Adder: ' + threePlusThree);

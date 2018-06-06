@@ -1,0 +1,33 @@
+/*
+ Functional Programming in JavaScript
+ Author: Luis Atencio
+ Hello FP
+ */
+console.log('Hello FP');
+
+
+// Imperative version
+document.getElementById('mydiv').innerHTML = '<h1>Hello FP</h1>';
+
+
+// ==================================== //
+// Functional version
+
+// Helper functions
+var addToDom = (str) =>
+  document.getElementById('mydiv2').innerHTML = str;
+
+var h1 = (str) => '<h1>' + str + '</h1>';
+
+var echo = (str) => () => str;
+
+R.compose(addToDom, h1, echo('Hello FP'))();
+
+// ==================================== //
+// EXERCISE:
+//Finish program below that raises the level of   excitement to print: Hello FP!!!
+// Hint: create function to repeat a character any number of times
+var repeat = undefined;
+
+// uncomment
+//R.compose(addToDom, h1, repeat, echo('Hello FP'))();
