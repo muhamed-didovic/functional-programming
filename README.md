@@ -1,2 +1,2 @@
-# Functional programming with JS and node
+# Functional programming with JS and Nodejs
 
